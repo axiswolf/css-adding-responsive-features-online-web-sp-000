@@ -1,3 +1,11 @@
 .wrapper {
   width: 90%;
 }
+
+.social {
+  /* absolute position, automatic width, 82px from the top, 4px from the right */
+  position: absolute;
+  width: auto;
+  top: 82px;
+  right: 4px;
+}
